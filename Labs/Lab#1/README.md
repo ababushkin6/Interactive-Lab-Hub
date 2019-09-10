@@ -39,7 +39,7 @@ The delay at which I can no longer percieve the LED blinking is when the two del
 
 **e. Modify the code to make your LED blink your way. Save your new blink code to your lab 1 repository, with a link on the README.md.**
 
-[Personal Blink Code](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab#1/Lab_1_Blink.ino)
+[Personal Blink Code](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%231/Lab_1_Blink.ino)
 
 ### 2. Blink your LED
 
@@ -97,8 +97,8 @@ The song was then split into beats of KICK, SNARE, and HAT, and each correspondi
 Here are the codes used to make the LEDs flash to the music.
 
 [Arduino Component]()
-[Processing Code Part I](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab#1/BeatWrite.pde)
-[Processing Code Part II](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab#1/BeatListener.pde)
+[Processing Code Part I](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%231/BeatWrite.pde)
+[Processing Code Part II](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%231/BeatListener.pde)
 
 
 
