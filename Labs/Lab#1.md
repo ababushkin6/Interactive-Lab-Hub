@@ -46,9 +46,7 @@ The delay at which I can no longer percieve the LED blinking is when the two del
 
 **Make a video of your LED blinking, and add it to your lab submission.**
 
-[Blink the LED](https://www.youtube.com/watch?v=5HUcQyWcXFk&feature=youtu.be)
-
-
+[Blink the LED](https://www.youtube.com/watch?v=-Rkczo5w9hE&feature=youtu.be)
 
 ## Part D. Manually fade an LED
 
