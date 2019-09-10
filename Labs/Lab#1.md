@@ -5,7 +5,7 @@
 
 ## Part A. Set Up a Breadboard
 
-![Initial Breadboard Setup](Interactive-Lab-Hub/blob/master/Labs/Lab%201%20Breadboard%20Setup%202.jpg)
+![Initial Breadboard Setup](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%201%20Breadboard%20Setup%202.jpg)
 
 
 ## Part B. Manually Blink a LED
