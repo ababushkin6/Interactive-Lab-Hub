@@ -94,10 +94,12 @@ The song was then split into beats of KICK, SNARE, and HAT, and each correspondi
 
 [Frankenlight](https://www.youtube.com/watch?v=ynVxHeky0fc&feature=youtu.be)
 
-Here are the codes used to make the LEDs flash to the music.
+Here are the codes used to make the LEDs flash to the music:
 
-[Arduino Component]()
+[Arduino Component](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%231/StandardFirmata.ino)
+
 [Processing Code Part I](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%231/BeatWrite.pde)
+
 [Processing Code Part II](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%231/BeatListener.pde)
 
 
