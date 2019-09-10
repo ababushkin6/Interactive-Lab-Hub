@@ -87,12 +87,19 @@ The device is powered using two AAA batteries (DC Voltage). The voltage the devi
 Since I had no objects that I could destroy, I decided to take apart some lights I had in such a way that they can be reassembled. Due to this, instead of adding an LED I instead will control them to blink using an Arduino/Processing program.
 The process involved dismantling two clip-on LED lights and a LED lit pen. The lights were then connected to the breadboard and the microcontroller at three different pins. 
 The idea was to have them flash according to a song that is being played. Since I do not possess the sensor listening to sound I had to input the song internally, through Processing. 
-The song was then split into beats of LOW, MED, and HIGH, and each corresponding beat lights up the corresponding LED. 
+The song was then split into beats of KICK, SNARE, and HAT, and each corresponding beat lights up the corresponding LED. 
 
 ### 3. Build your light!
 
 **Make a video showing off your Frankenlight.**
 
+[Frankenlight](https://www.youtube.com/watch?v=ynVxHeky0fc&feature=youtu.be)
+
+Here are the codes used to make the LEDs flash to the music.
+
+[Arduino Component]()
+[Processing Code Part I](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/BeatWrite.pde)
+[Processing Code Part II](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/BeatListener.pde)
 
 
 
