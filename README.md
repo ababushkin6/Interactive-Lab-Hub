@@ -6,7 +6,7 @@ __**Alan Babushkin (azb6)**__
 ## Pre-Labs
 
 1. Setup Completed
-2. [Pre-Lab 2]()
+2. [Pre-Lab 2](https://github.com/ababushkin6/Interactive-Lab-Hub/tree/master/Pre-Labs/Pre%20Lab%232)
 
 ## Labs
 
