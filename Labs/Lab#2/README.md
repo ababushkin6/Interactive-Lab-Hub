@@ -1,4 +1,4 @@
-# IDD-Fall2019-Lab 2: Digital Timer
+# IDD-Fall 2019-Lab2: Digital Timer
 
 ## Part A. Solder your LCD panel
 
