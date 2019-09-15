@@ -36,7 +36,14 @@ Upload a video of your working rotary encoder here.
 
 **a. How would you change the code to make the song play twice as fast?**
 
+To make the song play twice as fast, you could either change the *1000* to *500* in the following line of code:
 
+    int noteDuration = 1000 / noteDurations[thisNote];
+or you can divide the lenghts of the notes by two in this part of the code:
+
+    int noteDurations[] = {
+      10,10,10,2,2,10,10,10,2,4, \
+      10,10,10,2,4,10,10,10,2,4};
 
 **b. What song is playing?**
 
