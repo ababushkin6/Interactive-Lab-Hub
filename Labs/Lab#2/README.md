@@ -2,7 +2,11 @@
 
 ## Part A. Solder your LCD panel
 
-Take a picture of your soldered panel and add it here!
+**Soldered LCD Front**
+![Soldered LCD Front](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%232/Soldered%20LCD%20Front.jpg)
+
+**Soldered LCD Back**
+![Soldered LCD Back](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%232/Soldered%20LCD%20Back.jpg)
 
 ## Part B. Writing to the LCD
 
@@ -30,7 +34,7 @@ The line of code you need to change is the following line:
 
 ## Part C. Using a time-based digital sensor
 
-Upload a video of your working rotary encoder here.
+[Working Rotary Encoder](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%232/Rotary%20Encoder%20Testing.MOV)
 
 ## Part D. Make your Arduino sing!
 
