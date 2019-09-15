@@ -30,7 +30,7 @@ The line of code you need to change is the following line:
 
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
-[Low Voltage Multimeter Code]()
+[Low Voltage Multimeter Code](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%232/Lab_2_Lowly_Voltmeter.ino)
 
 ## Part C. Using a time-based digital sensor
 
