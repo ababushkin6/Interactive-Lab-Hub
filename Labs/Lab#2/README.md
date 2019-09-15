@@ -43,7 +43,7 @@ The line of code you need to change is the following line:
 To make the song play twice as fast, you could either change the *1000* to *500* in the following line of code:
 
     int noteDuration = 1000 / noteDurations[thisNote];
-or you can divide the lenghts of the notes by two in this part of the code:
+or you can multiply the numbers by two in this part of the code:
 
     int noteDurations[] = {
       10,10,10,2,2,10,10,10,2,4, \
@@ -57,5 +57,12 @@ The song playing is the theme to Star Wars.
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
 
+My timer is made using a LCD, a rotary encoder, a button, a speaker and two LEDs. The rotary encoder is turned to set the timer in seconds while being desplayed on the LCD screen. Then the button is pressed to start the timer which shows the countdown on the LCD. Finally when the timer ends (reaches 0), the speaker plays an alert at the same time that the LEDs flash.
 
+The code for this utilizes the earlier parts of this lab  and the built-in libraries. The code followed by the video is below:
 
+[Lab 2 Timer Code](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%232/Lab_2_Timer.ino)
+
+[Pitches.h](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%232/pitches.h)
+
+[Timer Working]()
