@@ -65,4 +65,4 @@ The code for this utilizes the earlier parts of this lab  and the built-in libra
 
 [Pitches.h](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%232/pitches.h)
 
-[Timer Working]()
+[Timer Working](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%232/Lab%202%20Timer%20Video.mp4)
