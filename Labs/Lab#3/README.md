@@ -46,7 +46,7 @@ The resistance decreases linearly as the force applied increases. For example,fo
 
 **a. Include your accelerometer read-out code in your write-up.**
 
-[Accellerometer Code]()
+[Accelerometer Code]()
 
 ### Optional. Graphic Display 
 
