@@ -46,7 +46,7 @@ The resistance decreases linearly as the force applied increases. For example,fo
 
 **a. Include your accelerometer read-out code in your write-up.**
 
-[Accelerometer Code]()
+[Accelerometer Code](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%233/Lab_3_accel.ino)
 
 ### Optional. Graphic Display 
 
