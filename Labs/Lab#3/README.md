@@ -96,4 +96,4 @@ Upload your modified code that takes in analog values from your sensors and prin
 
 [Data Logger Code](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%233/Lab_3_Data_Logger.ino)
 
-[Data Logger Video]()
+[Data Logger Video](https://www.youtube.com/watch?v=U_WSAmWd7yU&feature=youtu.be)
