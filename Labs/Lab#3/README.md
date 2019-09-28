@@ -88,6 +88,12 @@ Upload your modified code that takes in analog values from your sensors and prin
 
 **a. Insert here a copy of your final state diagram.**
 
+![State Diagram](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%233/Lab%203%20States%20Diagram.jpg)
+
 ### 3. Create your data logger!
 
 **a. Record and upload a short demo video of your logger in action.**
+
+[Data Logger Code](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%233/Lab_3_Data_Logger.ino)
+
+[Data Logger Video]()
