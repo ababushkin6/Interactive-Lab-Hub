@@ -4,7 +4,7 @@
 
 **Link to a video of your virbation motor**
 
-[Vibration Motor Video]()
+[Vibration Motor Video](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%234/Lab%204%20Vibration%20Motor.MOV)
 
 ## Part B. Actuating Servo motors
 
@@ -29,15 +29,16 @@ The parts of the code that control the servo angle is the pos variable and the l
 
 **Include a photo/movie of your raw circuit in action.**
 
-
+[Input/Output Integration Video](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%234/Lab%204%20Integrating%20Input%20and%20Output.MOV)
 
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.**
 
-
+[Proto Puppet Video](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%234/Lab%204%20Proto%20Puppet.MOV)
 
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
 
+[Final Puppet Video](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%234/Lab%204%20Final%20Puppet%20Video.MOV)
