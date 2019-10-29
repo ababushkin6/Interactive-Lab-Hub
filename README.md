@@ -11,6 +11,7 @@ __**Alan Babushkin (azb6)**__
 4. Completed
 5. Completed
 6. Setup Completed
+7. Pre-Lab Completed
 
 
 ## Labs
@@ -21,6 +22,7 @@ __**Alan Babushkin (azb6)**__
 4. [Lab 4](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%234/README.md)
 5. [Lab 5](https://github.com/ababushkin6/Interactive-Lab-Hub/blob/master/Labs/Lab%235/README.md)
 6. [Lab 6](https://github.com/ababushkin6/IDD-Fa19-Lab6)
+7. [Lab 7](https://github.com/ababushkin6/IDD-Fa19-Lab7)
 
 ## Final Project
 
